@@ -1,0 +1,12 @@
+{
+    "name": "piou-piou/ribs-module-starter-dev",
+    "description": "This module contains all files and folder to begin the developpment of new module",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Piou-piou",
+            "email": "pilloud.anthony@gmail.com"
+        }
+    ],
+    "require": {}
+}
