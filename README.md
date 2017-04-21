@@ -3,6 +3,13 @@
 
 This module contains all files and folder to begin the developpment of a module
 
+### Download This starter dev
+You can install it with composer with this command : 
+```
+$ composer create-project piou-piou/ribs-module-starter-dev your_module
+```
+Before install it, you must be in modules folder of your ribs project
+
 ## Base folders and files
 
 - admin : contain all files wich be used in administrator part
