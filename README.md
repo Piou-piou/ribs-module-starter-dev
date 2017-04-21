@@ -33,7 +33,7 @@ Before install it, you must be in modules folder of your ribs project
 - views/header.html can contain header of your module (could be deleted)
 - views/index.html contain skeleton to begin a page in app
 
-## Router folders and files
+## Router folder files
 
 - routes.php and admin_routes.php : this files is called in index.php at the base of ribs in RouterModule class.
 In the first if :
