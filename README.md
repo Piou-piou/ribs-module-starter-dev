@@ -46,7 +46,7 @@ you can call controller. this if check if you module is correctly activated in m
 To call a controller you have to use this code : 
 ```php
 if ($this->page == "a-page") {
-	\modules\blog\app\controller\MyModuleClass::$router_parameter = $this->parametre;
+	\modules\your_module_folder\app\controller\MyModuleClass::$router_parameter = $this->parametre;
 	$this->controller = "your_module_folder/app/controller/your_file.php";
 }
 ```
